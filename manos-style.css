@@ -1,0 +1,111 @@
+body {
+  background: #eee;
+}
+
+h1 {
+  color: #4d4b4b;
+  text-align: center
+}
+
+#portfolio img {
+  width: 300px;
+  margin: 10px;
+}
+
+#header {
+  position: relative;
+  background-color: #fff;
+  margin-top: -10px;
+  margin-right: -10px;
+  margin-left: -10px;
+  box-shadow: 1px 1px 1px #888;
+}
+
+#navbar {
+  position: fixed;
+  margin-top: -60px;
+  margin-right: 10px;
+  left: 70%;
+}
+
+#navbar ul {
+  list-style: none;
+  margin-right: 10px;
+  margin-bottom: 20px;  
+}
+
+#navbar ul li {
+  display: inline;  
+}
+
+#navbar ul li a {
+  padding: 8px 10px;
+  margin-right: 6px;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #000;
+  text-transform: uppercase;
+}
+
+#logo {
+  height: 50px;
+  padding: 10px;
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+
+.star {
+  height: 20px;
+  vertical-align: bottom;
+  margin-top: 25px;
+  padding: 10px;  
+}
+
+.hrule-left {
+  display: inline-block;
+  width: 30%;
+  border-bottom: 1px solid #d6d6d6;
+  margin-left: 225px;
+  vertical-align: text-top;
+}
+
+.hrule-right {
+  display: inline-block;
+  width: 30%;
+  border-bottom: 1px solid #d6d6d6;
+  margin-right: auto;
+  vertical-align: text-top;
+}
+
+#whatup {
+  margin-top: 70px;
+}
+
+#portfolio {
+  margin-left: 180px;
+}
+
+#button{
+  width: 23%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  height: 40px;
+  background-color: #e27554;
+  border-radius: 2px;
+  color: #fff;
+  text-align: center;
+  padding-top: 11px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+
+
+
+
+
+
+
